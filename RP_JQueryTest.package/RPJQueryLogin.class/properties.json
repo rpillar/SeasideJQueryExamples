@@ -1,0 +1,15 @@
+{
+	"category" : "RP_JQueryTest",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"email",
+		"password" ],
+	"name" : "RPJQueryLogin",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }

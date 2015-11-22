@@ -1,0 +1,14 @@
+{
+	"category" : "RP_JQueryTest",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"count" ],
+	"name" : "TestCounter",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

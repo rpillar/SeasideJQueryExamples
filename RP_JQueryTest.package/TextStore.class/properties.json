@@ -1,0 +1,14 @@
+{
+	"category" : "RP_JQueryTest",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"store" ],
+	"name" : "TextStore",
+	"pools" : [
+		 ],
+	"super" : "OrderedCollection",
+	"type" : "normal" }

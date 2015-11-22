@@ -1,0 +1,15 @@
+{
+	"category" : "RP_JQueryTest",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"email",
+		"name" ],
+	"name" : "RPUserBlock",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }

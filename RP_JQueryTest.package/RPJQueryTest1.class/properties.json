@@ -1,0 +1,14 @@
+{
+	"category" : "RP_JQueryTest",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"count" ],
+	"name" : "RPJQueryTest1",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }

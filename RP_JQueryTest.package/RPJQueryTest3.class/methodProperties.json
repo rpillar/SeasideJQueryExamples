@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"canBeRoot" : "RichardPillar 9/21/2015 16:47" },
+	"instance" : {
+		"initialize" : "RichardPillar 10/1/2015 18:22",
+		"noteComponent" : "RichardPillar 9/21/2015 21:46",
+		"noteComponent:" : "RichardPillar 9/21/2015 21:46",
+		"notes" : "RichardPillar 9/21/2015 16:45",
+		"notes:" : "RichardPillar 9/21/2015 16:45",
+		"numberOfNotes" : "RichardPillar 9/23/2015 17:07",
+		"renderContentOn:" : "RichardPillar 10/1/2015 15:31",
+		"renderTaskDescriptionOn:" : "RichardPillar 9/23/2015 17:17",
+		"renderTaskNotesOn:" : "RichardPillar 10/1/2015 18:22",
+		"style" : "RichardPillar 9/29/2015 08:38",
+		"task" : "RichardPillar 9/23/2015 17:06",
+		"task:" : "RichardPillar 9/23/2015 17:06",
+		"updateRoot:" : "RichardPillar 9/22/2015 08:20" } }

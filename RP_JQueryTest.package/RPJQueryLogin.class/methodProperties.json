@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"canBeRoot" : "RichardPillar 9/28/2015 19:30" },
+	"instance" : {
+		"email" : "RichardPillar 9/28/2015 19:33",
+		"email:" : "RichardPillar 9/28/2015 19:33",
+		"initialize" : "RichardPillar 9/28/2015 19:26",
+		"password" : "RichardPillar 9/28/2015 19:33",
+		"password:" : "RichardPillar 9/28/2015 19:33",
+		"renderButtonsOn:" : "RichardPillar 9/28/2015 20:56",
+		"renderContentOn:" : "RichardPillar 9/29/2015 17:51",
+		"renderEmailInputOn:" : "RichardPillar 9/29/2015 17:56",
+		"renderPasswordInputOn:" : "RichardPillar 9/28/2015 23:20",
+		"renderResetPasswordOn:" : "RichardPillar 9/29/2015 17:55",
+		"style" : "RichardPillar 9/29/2015 19:19",
+		"updateRoot:" : "RichardPillar 9/28/2015 21:23" } }
